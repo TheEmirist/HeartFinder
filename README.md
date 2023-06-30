@@ -1,2 +1,2 @@
 # HeartFinder
-My indie-game and university project
+Trying to make my game in Unity
